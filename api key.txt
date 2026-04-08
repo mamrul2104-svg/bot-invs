@@ -1,0 +1,13 @@
+8745452024:AAEUqLUqnjkHWJYznnLNeUskpEU5EkPT-D8 : bot fath
+
+8745452024 : id
+
+repo token : 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
+chat id grup : -1003792976357
+
+git init
+git branch -M main
+git remote add origin https://github.com/mamrul2104-svg/bot-invs
+
+
+git push -u origin main
